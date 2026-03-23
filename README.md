@@ -1,4 +1,3 @@
-# Enterprise IT Infrastructure Lab: EazyPro Technologies AB
 
 This project represents a full-scale IT infrastructure deployment for **EazyPro Technologies AB**, delivered as part of the "Super 8" consultancy team.
 
