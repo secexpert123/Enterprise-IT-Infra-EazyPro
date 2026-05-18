@@ -3,7 +3,7 @@
 The infrastructure deployment includes a fully refactored, enterprise‑grade PowerShell automation script:  
 **`Setup-EazyPro-Core.ps1`**
 
-### 🔧 Key Automation Features
+### Key Automation Features
 The script now includes:
 
 - **Modular Functions**  
@@ -27,4 +27,4 @@ The script now includes:
 - **IGDLA Model Implementation**  
   Creates Global Security Groups aligned with enterprise access control standards.
 
-### 📁 Script Location
+### Script Location
